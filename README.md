@@ -26,7 +26,7 @@ A simple project using Python and Qiling Framework for graphical representation 
         2. ./start.sh
 
 
-**Result:**
+**The Result:**
 
 ![result](VisualizationOfDynamicMemoryAllocations/result/result.png "Result")
 
