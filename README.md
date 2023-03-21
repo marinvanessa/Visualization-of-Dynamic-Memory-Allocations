@@ -33,3 +33,4 @@ A simple project using Python and Qiling Framework for graphical representation 
 **Bibliography:**
 1. https://qiling.io/
 2. https://realpython.com/python-time-module/
+3. https://pypi.org/project/matplotlib/
