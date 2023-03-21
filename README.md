@@ -9,7 +9,7 @@ A simple project using Python and Qiling Framework for graphical representation 
     
 **Get the following resources for running:**
 
-    1. git clone https://gitlab.com/smp2022/331aa/followmallocfreecalls.git
+    1. git clone https://github.com/marinvanessa/Visualization-of-Dynamic-Memory-Allocations.git
     2. cd to the /followmallocfreecalls directory
     3. code . (open in VSCode)
     4. chmod +x resources.sh
