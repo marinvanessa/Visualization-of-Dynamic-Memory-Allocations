@@ -28,5 +28,5 @@ A simple project using Python and Qiling Framework for graphical representation 
 
 **Rezultat obtinut:**
 
-![result](Visualization-of-Dynamic-Memory-Allocations/result/result.png "Result")
+![result](Visualization-of-Dynamic-Memory-Allocations/VisualizationOfDynamicMemoryAllocations/result/ "Result")
 
