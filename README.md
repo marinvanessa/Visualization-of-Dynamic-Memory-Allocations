@@ -1,5 +1,5 @@
 # Visualization-of-Dynamic-Memory-Allocations
-A simple project using Python and Qiling Framework for graphical representation of malloc() and free() functions.
+A simple project using Python and Qiling Framework for graphical representation of malloc() and free() functions. There is support for Linux.
 
 
 ***Get the following resources before getting the project:***
