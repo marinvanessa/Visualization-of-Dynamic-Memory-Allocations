@@ -16,4 +16,14 @@ A simple project using Python and Qiling Framework for graphical representation 
     5. sudo ./resources.sh
 
 
+**Execution:**
+
+    Use the following commands in linux terminal:
+        1. gcc follow_allocation.c
+        2. python3 main.py
+    Another way is using the following commands:
+        1. chmod +x start.sh
+        2. ./start.sh
+
+
 
