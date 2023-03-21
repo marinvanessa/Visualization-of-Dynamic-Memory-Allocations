@@ -26,4 +26,7 @@ A simple project using Python and Qiling Framework for graphical representation 
         2. ./start.sh
 
 
+**Rezultat obtinut:**
+
+![result](result/result.png "Rzultat")
 
