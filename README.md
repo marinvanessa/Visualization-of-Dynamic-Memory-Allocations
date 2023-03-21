@@ -30,3 +30,5 @@ A simple project using Python and Qiling Framework for graphical representation 
 
 ![result](VisualizationOfDynamicMemoryAllocations/result/result.png "Result")
 
+**Bibliography:**
+1. https://qiling.io/
